@@ -1,0 +1,4 @@
+web3==4.8.2
+requests==2.21.0
+tabulate==0.8.3
+progress==1.4
